@@ -1,0 +1,37 @@
+Análisis de sensibilidad
+
+La cooperativa "La tranquilísima"  ha decidido enfrentar la crisis del campo
+y salir a competir con los gigantes de la industria láctea. Para esto, ha decidido
+lanzar 2 nuevos productos, yogur "ligerísimo" y queso "picadille". 
+
+Para producir 1 kg de yogurt, se requieren 0.5 litros de leche, para producir 1
+kg. de queso, se requiere 1.5 litros de leche. Se dispone de 5.000 litros de leche
+mensuales. 
+
+Para que el yogurt sea competitivo, rico en nutrientes y comestible, cada kg
+debe tener 5 gr de endulzante. Se disponen de 50 Kg. de endulzante mensuales. 
+
+En cuanto a nutrientes enriquecedores, el yogurt tiene que tener un 25% de
+su peso y el queso un 35% de su peso. Se dispone de 1.500 kg. de nutrientes
+enriquecedores mensualemente. 
+
+Para no perder mercado contra los competidores, debemos producir mas de 
+500 kg de Yogurt al mes. El precio unitario del yogurt x 330 gr es $2.50 y el 
+del queso x 500 gr es $ 12.
+
+
+Realizar el modelo matemático y correrlo en LINDO. (Entrega 12/09). 
+
+Resolver cada una de las preguntas EN FORMA INDEPENDIENTE UNA DE LA OTRA.
+Tratar de contestar los puntos sin hacer una nueva corrida, es decir, 
+con la información disponible. 
+De ser necesario hacer una nueva corrida, justificar. (Entrega 31/10). 
+
+1. Como influirá el no cumplir con el compromiso mínimo de producir más de
+500 kg de Yogurt? Y si fueran 50? Y 1500?
+
+2. Cual es el producto mas importante? justifique claramente su respuesta. 
+
+3. Una empresa interesada en el mercado ofrece venderle más nutrientes a 
+la cooperativa. Conviene el negocio? A que precio y en cuanta cantidad?
+
