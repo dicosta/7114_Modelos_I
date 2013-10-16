@@ -1,0 +1,39 @@
+Analisis y Aproximación al problema:
+
+La famosa empresa "Dinero Seguro" se dedica al transporte de caudales y ha
+decidido contratarte ya que necesita de tu ingenio para resolver su problema.
+
+En esta oportunidad tiene la misión de asegurarse que uno de sus camiones cumpla
+su recorrido por los bancos de forma exitosa. Dicho camión debe salir
+de una de las sedes de la empresa, pasar por 10 bancos y retornar a esa misma sede.
+Por razones de seguridad, el camión no podrá detenerse en ningún otro lugar
+alternativo. 
+
+Se sabe que en algunos bancos recaudará dinero de los cajeros (+$) y en 
+otros dejara (-$). Por cierto, los montos ya estan preestablecidos y se indican a continuación. 
+
+Banco Porteño +$A
+Banco Del Plata -$B
+Banco De Los Andes +$C
+Banco Plural +$D
+Banco Del Norte -$E
+Banco Pampeano -$F
+Banco Cooperativo +$G
+BAnco Sol -$H
+Banco Republica +$I
+Banco Vientos del SUr +$J
+
+Asimismo, el camión tiene espacio para transportar hasta $MAX_DINERO y 
+debe asegurarse de tener dinero disponible para dejar en el caso en que
+le toque un banco con esa necesidad. 
+
+Las distancias entre dos bancos cualesquiera (medidas en kilómetros) son 
+datos fijos. También lo es la distancia entre la sede de la empresa y cada
+banco. 
+
+Analizar el problema y realizar propuestas para su resolucióñ en clase. 
+Redactar objetivo, hipótesis y explicar alguna propuesta de resolucióñ elegida
+
+Entrega 12/09
+
+

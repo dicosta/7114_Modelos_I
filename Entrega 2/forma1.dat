@@ -1,0 +1,33 @@
+# Data Section
+data;
+
+set NODOS := O A B C D E F G H I J ;
+set BANCOS := A B C D E F G H I J ;
+/*
+param MONTOS :=
+O 0
+A 20000
+B -5000
+C 20000
+D 5000
+E -15000
+F -10000
+G -5000
+H -5000
+I 5000
+J 5000;
+*/
+param DIST: O A B C D E F G H I J:=
+O 0 5 2 4 6 3 5 4 5 7 9
+A 5 0 4 2 4 3 3 4 5 4 4
+B 2 4 0 3 5 4 3 1 4 2 3
+C 4 2 3 0 3 4 4 5 5 4 4 
+D 6 4 5 3 0 4 5 5 3 2 4
+E 3 3 4 4 4 0 2 6 5 6 7
+F 5 3 3 4 5 2 0 3 3 5 5
+G 4 4 1 5 5 6 3 0 4 4 5
+H 5 5 4 5 3 5 3 4 0 3 3
+I 7 4 2 4 2 6 5 4 3 0 4
+J 9 4 3 4 4 7 5 5 3 4 0;
+
+end;
