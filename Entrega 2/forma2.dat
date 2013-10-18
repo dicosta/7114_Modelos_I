@@ -1,8 +1,8 @@
-# Data Section
 data;
 
 set NODOS := O A B C D E F G H I J ;
 set BANCOS := A B C D E F G H I J ;
+set ORDENES := 0 1 2 3 4 5 6 7 8 9 10 ;
 
 param MONTOS :=
 O 0
@@ -29,7 +29,5 @@ G 4 4 1 5 5 6 3 0 4 4 5
 H 5 5 4 5 3 5 3 4 0 3 3
 I 7 4 2 4 2 6 5 4 3 0 4
 J 9 4 3 4 4 7 5 5 3 4 0;
-
-param M := 100;
 
 end;
